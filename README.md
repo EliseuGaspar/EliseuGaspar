@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Eliseu Gaspar
-- 👀 I’m interested in  aprender python, e melhorar em criação de sites.
-- 🌱 I’m currently learning  python.
-- 💞️ I’m looking to collaborate on  que  eu poder ajudar.
-- 📫 How to reach me ? --> eliseugaspar4@gmail.com/eliseu gaspar gonçalves --> Facebook
+- 👋 Hi, I'm @Eliseu Gaspar
+- 👀 I'm interested in learning python, and getting better at creating websites.
+- 🌱 I am currently learning python.
+- 💞️ I try to collaborate in what I can help.
+- 📫 How to reach me? --> eliseugaspar4@gmail.com
+- eliseu gaspar gonçalves --> Facebook
 
 <!---
 EliseuGaspar/EliseuGaspar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
