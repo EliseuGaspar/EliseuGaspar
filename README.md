@@ -1,4 +1,4 @@
-<img src="assets/fundo.png" alt="logo da DF - ELSU" width="50%" >
+<img src="assets/easyPay-logo.jpg" alt="Easepayment logo" width="100%" >
 
 ## Sobre Mim
 
@@ -18,7 +18,7 @@ Acredito que o conhecimento é poder e que nada é perfeito quando se é feito s
 	- Persistente
 	- E muitas outras coisas
 
-## As minhas linguagens
+#### As minhas linguagens
 
 * Eu trabalho com::
 	- HTML
@@ -26,6 +26,6 @@ Acredito que o conhecimento é poder e que nada é perfeito quando se é feito s
 	- Python
 	- Javascript
 
-## Alguns dos meus projetos
+#### Alguns dos meus projetos
 
 * <stong>Brevemente</stong>
