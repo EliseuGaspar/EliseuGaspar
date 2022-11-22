@@ -1,11 +1,31 @@
-- 👋 Hi, I'm @Eliseu Gaspar
-- 👀 I'm interested in learning python, and getting better at creating websites.
-- 🌱 I am currently learning python.
-- 💞️ I try to collaborate in what I can help.
-- 📫 How to reach me? --> eliseugaspar4@gmail.com
-- eliseu gaspar gonçalves --> Facebook
+<img src="assets/fundo.png" alt="logo da DF - ELSU" width="50%" >
 
-<!---
-EliseuGaspar/EliseuGaspar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre Mim
+
+Chamo-me <stong>Eliseu A. G. Gonçalves</stong> tenho 18 anos e estudo informatica técnica.
+Atualmente estou no 11º ano. Gosto muito de tecnólogia, músicas e livros.
+Acredito que o conhecimento é poder e que nada é perfeito quando se é feito sozinho. Por isso procuro aumentar os meus conhecimentos participando em projetos e a minha rede de amigos também, para poder crescer como pessoa e como um profissional informático.
+
+### Caracteristicas ...
+
+* Sou uma pessoa::
+	- Curiosa(Gosto de aprender novas coisas)
+	- Inovadora
+	- Comunicativa
+	- Fechada(No começo apenas)
+	- Realista
+	- Autodidata
+	- Persistente
+	- E muitas outras coisas
+
+## As minhas linguagens
+
+* Eu trabalho com::
+	- HTML
+	- CSS
+	- Python
+	- Javascript
+
+## Alguns dos meus projetos
+
+* <stong>Brevemente</stong>
