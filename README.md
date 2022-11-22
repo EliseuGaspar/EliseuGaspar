@@ -1,4 +1,4 @@
-<img src="fundo.png" alt="logo da DF - ELSU" width="60%" >
+<img src="https://github.com/EliseuGaspar/EliseuGaspar/blob/main/Fundo.png" alt="logo da DF - ELSU" width="60%" >
 
 ## Sobre Mim
 
