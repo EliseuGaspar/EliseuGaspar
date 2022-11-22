@@ -1,4 +1,4 @@
-<img src="assets/easyPay-logo.jpg" alt="Easepayment logo" width="100%" >
+<img src="fundo.png" alt="Easepayment logo" width="60%" >
 
 ## Sobre Mim
 
