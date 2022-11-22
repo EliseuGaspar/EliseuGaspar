@@ -1,4 +1,4 @@
-<img src="fundo.png" alt="Easepayment logo" width="60%" >
+<img src="fundo.png" alt="logo da DF - ELSU" width="60%" >
 
 ## Sobre Mim
 
