@@ -25,7 +25,3 @@ Acredito que o conhecimento é poder e que nada é perfeito quando se é feito s
 	- CSS
 	- Python
 	- Javascript
-
-#### Alguns dos meus projetos
-
-* <stong>Brevemente</stong>
