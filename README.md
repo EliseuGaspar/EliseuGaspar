@@ -1,12 +1,14 @@
 # "Olá meu nome é Eliseu Gaspar";
 
 ## ## E este sou eu!
+<br>
 
 <img src="274550498_489633379236522_5157148375971548302_n.jpg" width="200" height="200"/> <img src="photo1.png" width="200" height="200px"/>
 
+<br><br>
 
-
-# 📄 Mais Sobre Mim
+## 📄 Mais Sobre Mim
+<br>
 
 **Sou estudante do 11º ano do ensino médio.**
 
@@ -18,9 +20,10 @@
 
 **Atualmente resido em Luanda/Angola.**
 
-# 🛠 Trabalho Com:
+<br><br>
 
-
+## 🛠 Trabalho Com: 
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -35,6 +38,7 @@
 <br><br>
 
 ## ⚙️ GitHub Analytics
+<br>
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=EliseuGaspar&show_icons=true&theme=vision-friendly-dark" alt="Eliseu-Gaspar"/>
@@ -44,6 +48,7 @@
 <br><br>
 
 ##  Minhas Redes Sociais
+<br>
 
 <p align="left">
 <a href="https://www.facebook.com/eliseugaspar.goncalves/" target="_blank">
