@@ -3,7 +3,7 @@
 ## ## E este sou eu!
 <br>
 
-<img src="274550498_489633379236522_5157148375971548302_n.jpg" width="200" height="200"/> <img src="photo1.png" width="200" height="200px"/>
+<img src="274550498_489633379236522_5157148375971548302_n.jpg" style="zoom: 50%"/> <img src="photo1.png" style="zoom: 50%"/>
 
 <br><br>
 
