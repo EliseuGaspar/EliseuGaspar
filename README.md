@@ -34,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
 <br><br>
 
