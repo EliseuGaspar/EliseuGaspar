@@ -1,18 +1,8 @@
 # "Olá meu nome é Eliseu Gaspar";
 
-## ## E este sou eu!
-<br>
-
-<img src="274550498_489633379236522_5157148375971548302_n.jpg"/> <img src="photo1.png" height="400px"/>
-
-<br><br>
-
-## 📄 Mais Sobre Mim
-<br>
-
 **Sou estudante do 11º ano do ensino médio.**
 
-**Tenho 17 anos de idade.**
+**Tenho 18 anos de idade.**
 
 **Estou me formando em Informática Técnica.**
 
