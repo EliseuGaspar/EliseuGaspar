@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="photo.jpg"  style="width: 50%;"/>
+        <img src="photo.jpg"  style="width: 40%;"/>
     </div>
     <div style="flex: 1;">
     	<h3></h3>
