@@ -2,28 +2,24 @@
 
 ---
 
-<div style="display: flex;">
-    <div style="flex: 1;" right="right">
-        <img src="photo.jpg"  style="width: 40%;"/>
-    </div>
-    <em>
-    <div style="flex: 1;" right="left">
-    	<h3></h3>
-    	<h4>Estou no mundo das TI's desde 2021 Dezembro, e desde lá venho estudando muito sobre programação. A possibiidade de criar soluções para resolver determinados problemas e a possibilidade de criar quase tudo o que eu quero só com um computador e conhecimento me é fascinante e isso é umas das coisas que me motiva a estudar!</h4>
-    	<h4>Abaixo há mais informações sobre mim na área da TI:</h4>
-    	<ul>
-    		<li>Nível Académico: <b>Ensino Médio.</b></li>
-    		<li>Área de Foco: <b>Programação.</b></li>
-    		<li>Sub-Área: <b>Desenvolvimento de Softwares.</b></li>
-    		<li>Linguagem Predileta: <b>Python.</b></li>
-    		<li>Linguagens Em Domínio: <b>[Python, Javascript].</b></li>
-    		<li>Linguagens Em Learn: <b>[Golang].</b></li>
-    		<li>Nacionalidade: <b>Angolana.</b></li>
-    		<li>Idade: <b>18.</b></li>
-        </ul>
-    </div>
-    </em>
+<img src="photo.jpg"  style="width: 40%;" align="right"/>
+<em>
+<div align="left">
+    <h3></h3>
+    <h4>Estou no mundo das TI's desde 2021 Dezembro, e desde lá venho estudando muito sobre programação. A possibiidade de criar soluções para resolver determinados problemas e a possibilidade de criar quase tudo o que eu quero só com um computador e conhecimento me é fascinante e isso é umas das coisas que me motiva a estudar!</h4>
+    <h4>Abaixo há mais informações sobre mim na área da TI:</h4>
+    <ul>
+    	<li>Nível Académico: <b>Ensino Médio.</b></li>
+    	<li>Área de Foco: <b>Programação.</b></li>
+    	<li>Sub-Área: <b>Desenvolvimento de Softwares.</b></li>
+    	<li>Linguagem Predileta: <b>Python.</b></li>
+    	<li>Linguagens Em Domínio: <b>[Python, Javascript].</b></li>
+    	<li>Linguagens Em Learn: <b>[Golang].</b></li>
+    	<li>Nacionalidade: <b>Angolana.</b></li>
+    	<li>Idade: <b>18.</b></li>
+    </ul>
 </div>
+</em>
 
 ### Minha Stack para Trabalho:
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
@@ -39,8 +35,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
+---
+
+<br>
+
 ### Minhas análises GitHub:
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=EliseuGaspar&show_icons=true&theme=vision-friendly-dark" alt="antoniocampos"/>
-<img width="420em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuGaspar&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
+<img width="420em" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuGaspar&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
+</p>
+
+### Contacte-me nas outras redes
+<p align="left">
+<a href="https://www.facebook.com/eliseugaspar.goncalves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@eliseugaspar-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/eliseu-gaspar-gon%C3%A7alves/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@eliseugaspar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 </p>
