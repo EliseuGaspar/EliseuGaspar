@@ -22,3 +22,13 @@
     	<ul>
     </div>
 </div>
+            
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/eliseu-gaspar-gon%C3%A7alves/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@EliseuGaspar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
