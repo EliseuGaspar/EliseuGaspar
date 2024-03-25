@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         <img src="photo.jpg"  style="width: 40%;"/>
     </div>
