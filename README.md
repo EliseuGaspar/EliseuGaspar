@@ -35,6 +35,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
+![Yaml](https://img.shields.io/badge/-Yaml-05122A?style=flat&logo=yaml)&nbsp;
 
 ---
 
