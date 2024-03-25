@@ -2,9 +2,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <div style="flex: 1;">
-        <img src="photo.jpg"  style="width: 40%;"/>
+        <img src="photo.jpg"  style="width: 70%;"/>
     </div>
     <div style="flex: 1;">
     	<h3></h3>
@@ -22,13 +22,23 @@
     	<ul>
     </div>
 </div>
-            
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 
-<br><br>
+### Minha Stack para Trabalho:
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Mysql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<a href="https://www.linkedin.com/in/eliseu-gaspar-gon%C3%A7alves/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-@EliseuGaspar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+### Minhas análises GitHub:
+<p align="left">
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=EliseuGaspar&show_icons=true&theme=vision-friendly-dark" alt="antoniocampos"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuGaspar&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
+</p>
