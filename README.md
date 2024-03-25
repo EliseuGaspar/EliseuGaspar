@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img src="photo.jpg"  style="width: 70%;"/>
+        <img src="photo.jpg"  style="width: 40%;"/>
     </div>
     <div style="flex: 1;">
     	<h3></h3>
@@ -40,5 +40,5 @@
 ### Minhas análises GitHub:
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=EliseuGaspar&show_icons=true&theme=vision-friendly-dark" alt="antoniocampos"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuGaspar&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuGaspar&layout=compact&theme=vision-friendly-dark" alt="antoniocampos"/>
 </p>
