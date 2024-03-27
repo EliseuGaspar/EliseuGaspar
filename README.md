@@ -2,7 +2,7 @@
 
 ---
 
-<img src="photo.jpg"  style="width: 40%;" align="right"/>
+<img src="Elizeu.png"  style="width: 40%;" align="right"/>
 <em>
 <div align="left">
     <h3></h3>
