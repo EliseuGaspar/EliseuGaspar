@@ -13,8 +13,8 @@
     	<li>Área de Foco: <b>Programação.</b></li>
     	<li>Sub-Área: <b>Desenvolvimento de Softwares.</b></li>
     	<li>Linguagem Predileta: <b>Python.</b></li>
-    	<li>Linguagens Em Domínio: <b>[Python, Javascript].</b></li>
-    	<li>Linguagens Em Learn: <b>[Golang].</b></li>
+    	<li>Dominando: <b>[Python, Javascript].</b></li>
+    	<li>Aprendendo: <b>[Golang].</b></li>
     	<li>Nacionalidade: <b>Angolana.</b></li>
     	<li>Idade: <b>18.</b></li>
     </ul>
