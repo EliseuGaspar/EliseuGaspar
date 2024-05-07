@@ -1,4 +1,4 @@
-## Olá rede meu nome é **Eliseu Gaspar**!
+## Olá rede! Meu nome é **Eliseu Gaspar**!
 
 ---
 
