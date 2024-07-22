@@ -12,7 +12,7 @@
     	<li>Área de Foco: <b>Programação.</b></li>
     	<li>Sub-Área: <b>Desenvolvimento de Softwares.</b></li>
     	<li>Linguagem Predileta: <b>Python.</b></li>
-    	<li>Dominando: <b>[Python(Django, Flask, FastAPI), Javascript(Express)].</b></li>
+    	<li>Dominando: <b>[Python(Django, Flask, FastAPI), Javascript(Express, React)].</b></li>
     	<li>Aprendendo: <b>[Golang].</b></li>
     	<li>Nacionalidade: <b>Angolana.</b></li>
     </ul>
