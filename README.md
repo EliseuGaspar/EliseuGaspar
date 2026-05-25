@@ -2,7 +2,7 @@
 
 ---
 
-<img src="Elizeu.png" width="40%" align="right" />
+<img src="profile-photo.png" width="40%" align="right" />
 
 ### 💻 Sobre mim
 
