@@ -1,46 +1,48 @@
-## Eliseu Gaspar
-
-Backend Developer | Software Engineer
+## 👋 Olá, rede! Eu sou o Eliseu Gaspar
 
 ---
 
-### 🧠 Focus
+<img src="Elizeu.png" width="40%" align="right" />
 
-- Software Development
-- Backend Engineering
-- API Design & Architecture
+### 💻 Sobre mim
+
+Sou desenvolvedor de software focado em construir soluções eficientes, escaláveis e orientadas a problemas reais.
+---
+
+### 🧠 Tecnologias e interesses
+
+- 🎯 Foco principal: **Desenvolvimento de Software**
+- 🧩 Interesse atual: **Backend Engineering & APIs**
+- 🐍 Linguagem principal: **Python**
+- ⚙️ Stack principal: **Python (Django, Flask, FastAPI), Typescript (Node.js, Express)**
+- 🌍 Nacionalidade: **Angolana**
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ Stack técnica
 
-**Languages**
-- Python
-- JavaScript
-- Golang (learning)
+#### Linguagens & Backend
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 
-**Backend**
-- Django
-- Flask
-- FastAPI
-- Node.js (Express)
+#### Frameworks
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
 
-**Frontend**
-- React
+#### Bancos de dados & Mensageria
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-05122A?style=flat&logo=rabbitmq)
 
-**Databases**
-- PostgreSQL
-- MySQL
-- SQLite
-
-**Messaging / Infra**
-- RabbitMQ
-
-**Tools**
-- Git
-- GitHub
-- Docker
-- VS Code
+#### Ferramentas
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 
 ---
 
@@ -53,7 +55,7 @@ Backend Developer | Software Engineer
 
 ---
 
-### 🌐 Links
+### 📫 Contactos
 
-- LinkedIn: https://www.linkedin.com/in/eliseu-gaspar-gon%C3%A7alves/
-- Facebook: https://www.facebook.com/eliseugaspar.goncalves
+- 💼 LinkedIn: [Eliseu Gaspar](https://www.linkedin.com/in/eliseu-gaspar-gon%C3%A7alves/)
+- 📘 Facebook: [Eliseu Gaspar](https://www.facebook.com/eliseugaspar.goncalves)
