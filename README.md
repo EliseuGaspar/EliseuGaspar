@@ -7,6 +7,7 @@
 ### 💻 Sobre mim
 
 Sou desenvolvedor de software focado em construir soluções eficientes, escaláveis e orientadas a problemas reais.
+
 ---
 
 ### 🧠 Tecnologias e interesses
